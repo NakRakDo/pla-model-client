@@ -1,0 +1,18 @@
+.footerMain {
+    border-bottom-width: 1px;
+    border-bottom-color: #111111;
+    height: 300px;
+}
+
+.footerInner {
+    position: sticky;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    max-width: 1908px;
+    margin: 0 auto;
+    height: 100%;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}

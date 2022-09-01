@@ -1,0 +1,10 @@
+.mainBodySliderWrapper{
+    width: 90%;
+    height: 56.25%;
+    border-radius: 5px;
+    border-color: #111111;
+    border-width: 2px;
+    margin: 0 auto;
+    background-color: blue;
+    color: white;
+}

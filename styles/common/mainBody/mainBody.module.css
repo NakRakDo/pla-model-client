@@ -1,0 +1,8 @@
+.mainBodyWrapper{
+    display: flex;
+    max-width: 1908px;
+    height : 1000px;
+    margin: 0 auto;
+    background-color: white;
+    color :black;
+}
