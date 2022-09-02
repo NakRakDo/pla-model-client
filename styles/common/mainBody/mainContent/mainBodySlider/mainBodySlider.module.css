@@ -4,7 +4,8 @@
     border-radius: 5px;
     border-color: #111111;
     border-width: 2px;
-    margin: 0 auto;
+    margin: 10px auto;
     background-color: blue;
     color: white;
+    padding: 10px;
 }
